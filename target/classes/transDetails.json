@@ -1,0 +1,49 @@
+[{
+		"transactionId": "txn1",
+		"transactionAmount": "120",
+		"transactionDate": "01-01-2020",
+		"customerId": "cust1",
+		"customerName": "John Doe",
+		"email": "johnd@cust.com"
+	},
+	{
+		"transactionId": "txn2",
+		"transactionAmount": "130",
+		"transactionDate": "01-02-2020",
+		"customerId": "cust1",
+		"customerName": "John Doe",
+		"email": "johnd@cust.com"
+	},
+	{
+		"transactionId": "txn3",
+		"transactionAmount": "140",
+		"transactionDate": "01-03-2020",
+		"customerId": "cust1",
+		"customerName": "John Doe",
+		"email": "johnd@cust.com"
+	},
+	{
+		"transactionId": "txn4",
+		"transactionAmount": "110",
+		"transactionDate": "02-01-2020",
+		"customerId": "cust2",
+		"customerName": "Andrew Dsouza",
+		"email": "johnd@cust.com"
+	},
+	{
+		"transactionId": "txn5",
+		"transactionAmount": "125",
+		"transactionDate": "03-02-2020",
+		"customerId": "cust2",
+		"customerName": "Andrew Dsouza",
+		"email": "johnd@cust.com"
+	},
+	{
+		"transactionId": "txn6",
+		"transactionAmount": "145",
+		"transactionDate": "04-03-2020",
+		"customerId": "cust2",
+		"customerName": "Andrew Dsouza",
+		"email": "johnd@cust.com"
+	}
+]
